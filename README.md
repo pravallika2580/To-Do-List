@@ -22,8 +22,8 @@ A simple, elegant To-Do List web application built with HTML, CSS, and JavaScrip
 ![To-Do List Screenshot](images/Screenshot.png)
 
 
-## 💾 How to Run
+### 🔗 Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+Check it out live 👉 [To-Do List Web App](https://pravallika2580.github.io/To-Do-List/)
+
+---
